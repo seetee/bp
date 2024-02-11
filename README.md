@@ -17,5 +17,6 @@ https://open-props.style/
 * https://colorkit.co/  
 * https://venngage.com/tools/accessible-color-palette-generator  
 * https://mycolor.space/
-* https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties/   
+* https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties/
+* https://meow.social/@miunau/111911373727499267    
 
