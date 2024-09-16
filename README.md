@@ -6,6 +6,7 @@ https://cube.fyi/
 https://leanrada.com/htmz/    
 https://matcha.mizu.sh/    
 https://mark.ie/blog/create-a-vertical-rhythm-system-in-10-lines-of-css/  
+https://piccalil.li/blog/a-more-modern-css-reset/
 
 #### Open Props  
 https://open-props.style/  
