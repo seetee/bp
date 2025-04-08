@@ -23,4 +23,4 @@ https://open-props.style/
 * https://mycolor.space/
 * https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties/
 * https://meow.social/@miunau/111911373727499267    
-
+* https://endtimes.dev/no-javascript-dark-mode-toggle/  
